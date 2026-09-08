@@ -51,10 +51,10 @@ Improved throughput and water-recovery efficiency by 18% through process simulat
 
 ## Featured Projects
 
-### [Multi-Well Production Optimization & Artificial Lift Design](https://github.com/regnold007/multi-well-production-optimization)
+### [Multi-Well Production Optimization & Artificial Lift Design](https://github.com/RegnoldChinowaita/multi-well-production-optimization)
 Advanced Production Engineering term project — performed nodal analysis and PIPESIM multiphase-flow simulation across six wells to select optimum tubing/pipeline sizes and predict well performance over field life. Designed and sized ESP, gas lift, and rod pump systems via sensitivity studies on pump staging and operating frequency, and built an economic model covering oil price, water disposal, and lift power costs.
 
-### [ESP Well Failure Prediction — 30-Day Early Warning System](https://github.com/regnold007/esp-failure-prediction)
+### [ESP Well Failure Prediction — 30-Day Early Warning System](https://github.com/RegnoldChinowaita/esp-failure-prediction)
 Data analytics project — built a Random Forest classifier to predict Electrical Submersible Pump failures up to 30 days in advance from sensor and production data (SPE E-Challenge dataset, 94 wells). Addressed severe class imbalance with SMOTE and engineered rolling degradation-signature features, achieving 0.992 AUC and 91% recall on held-out test wells, with output translated into a CRITICAL/HIGH/MEDIUM/LOW risk dashboard.
 
 ### Gold Bio-Leaching Processing Plant Design (2,950 t/day)
@@ -66,7 +66,7 @@ MATLAB model comparing oxidant costs (H2O2 vs. ClO2) to reduce treatment chemica
 ## GitHub Activity
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=regnold007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RegnoldChinowaita&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Connect
