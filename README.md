@@ -5,7 +5,7 @@
 <p align="center"><b>Petroleum Engineering M.S. Candidate</b> · University of Oklahoma</p>
 
 <p align="center">
-Petroleum engineering graduate student combining hands-on subsurface/core-flow lab experience (permeability, porosity, EOR) with production engineering, PIPESIM/nodal analysis, and a process-safety background.
+Petroleum engineering graduate student combining hands-on subsurface/core-flow lab experience (permeability, porosity, EOR) with production engineering, PIPESIM/OLGA multiphase-flow modeling, and a process-safety background.
 </p>
 
 <p align="center">
@@ -37,6 +37,7 @@ Improved throughput and water-recovery efficiency by 18% through process simulat
 
 <p align="left">
 <img src="https://img.shields.io/badge/PIPESIM-003C71?style=for-the-badge&logoColor=white" alt="PIPESIM">
+<img src="https://img.shields.io/badge/OLGA-0f5c8a?style=for-the-badge&logoColor=white" alt="OLGA">
 <img src="https://img.shields.io/badge/SuperPro_Designer-1f5c99?style=for-the-badge&logoColor=white" alt="SuperPro Designer">
 <img src="https://skillicons.dev/icons?i=python,matlab,r,git,github,latex" alt="Skill icons" />
 </p>
@@ -45,7 +46,7 @@ Improved throughput and water-recovery efficiency by 18% through process simulat
 |---|---|
 | Reservoir & Drilling | Reservoir Simulation, Well Logging & Interpretation, Pressure Transient Analysis |
 | Production Engineering | Artificial Lift Design (ESP, Gas Lift, Rod Pump), Nodal Analysis, Well Performance Modeling, IPR |
-| Engineering Software | PIPESIM, SuperPro |
+| Engineering Software | PIPESIM, OLGA, SuperPro |
 | Programming & Data Analysis | Python, MATLAB, R |
 
 ## Featured Projects
